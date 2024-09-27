@@ -3,6 +3,7 @@ some small scripts that download the current days bing wallpaper to your compute
 
 ### MacOS  use via cron
 ------
+- Install command line tools: ```brew install wget jq```
 - Allow exeuction of the script
  - ```chmod +x ./bing-wallpaper.sh```
 - Then create a cron schedule
